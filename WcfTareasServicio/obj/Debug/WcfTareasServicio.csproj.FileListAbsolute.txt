@@ -1,0 +1,10 @@
+c:\users\alumno\documents\visual studio 2015\Projects\WcfTareasServicio\WcfTareasServicio\bin\WcfTareasServicio.dll.config
+c:\users\alumno\documents\visual studio 2015\Projects\WcfTareasServicio\WcfTareasServicio\bin\WcfTareasServicio.dll
+c:\users\alumno\documents\visual studio 2015\Projects\WcfTareasServicio\WcfTareasServicio\bin\WcfTareasServicio.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\WcfTareasServicio\WcfTareasServicio\bin\EntityFramework.dll
+c:\users\alumno\documents\visual studio 2015\Projects\WcfTareasServicio\WcfTareasServicio\bin\EntityFramework.SqlServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\WcfTareasServicio\WcfTareasServicio\bin\EntityFramework.xml
+c:\users\alumno\documents\visual studio 2015\Projects\WcfTareasServicio\WcfTareasServicio\bin\EntityFramework.SqlServer.xml
+c:\users\alumno\documents\visual studio 2015\Projects\WcfTareasServicio\WcfTareasServicio\obj\Debug\WcfTareasServicio.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\WcfTareasServicio\WcfTareasServicio\obj\Debug\WcfTareasServicio.dll
+c:\users\alumno\documents\visual studio 2015\Projects\WcfTareasServicio\WcfTareasServicio\obj\Debug\WcfTareasServicio.pdb
